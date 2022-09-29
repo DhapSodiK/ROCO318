@@ -1,0 +1,2 @@
+beginner_1
+-DCATKIN_DEVEL_PREFIX=/home/student/roco318_ws/devel -DCMAKE_INSTALL_PREFIX=/home/student/roco318_ws/install -G Unix Makefiles

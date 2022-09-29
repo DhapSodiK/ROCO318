@@ -1,0 +1,8 @@
+prefix=/home/student/roco318_ws/install
+
+Name: beginner_1
+Description: Description of beginner_1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
