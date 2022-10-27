@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/student/pioneer3dx/src
+CMAKE_SOURCE_DIR = /home/student/lab3/pioneer3dx/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/student/pioneer3dx/build
+CMAKE_BINARY_DIR = /home/student/lab3/pioneer3dx/build
 
 # Utility rule file for roscpp_generate_messages_cpp.
 
@@ -63,10 +63,10 @@ p3dx_description/CMakeFiles/roscpp_generate_messages_cpp.dir/build: roscpp_gener
 .PHONY : p3dx_description/CMakeFiles/roscpp_generate_messages_cpp.dir/build
 
 p3dx_description/CMakeFiles/roscpp_generate_messages_cpp.dir/clean:
-	cd /home/student/pioneer3dx/build/p3dx_description && $(CMAKE_COMMAND) -P CMakeFiles/roscpp_generate_messages_cpp.dir/cmake_clean.cmake
+	cd /home/student/lab3/pioneer3dx/build/p3dx_description && $(CMAKE_COMMAND) -P CMakeFiles/roscpp_generate_messages_cpp.dir/cmake_clean.cmake
 .PHONY : p3dx_description/CMakeFiles/roscpp_generate_messages_cpp.dir/clean
 
 p3dx_description/CMakeFiles/roscpp_generate_messages_cpp.dir/depend:
-	cd /home/student/pioneer3dx/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/pioneer3dx/src /home/student/pioneer3dx/src/p3dx_description /home/student/pioneer3dx/build /home/student/pioneer3dx/build/p3dx_description /home/student/pioneer3dx/build/p3dx_description/CMakeFiles/roscpp_generate_messages_cpp.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/student/lab3/pioneer3dx/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/lab3/pioneer3dx/src /home/student/lab3/pioneer3dx/src/p3dx_description /home/student/lab3/pioneer3dx/build /home/student/lab3/pioneer3dx/build/p3dx_description /home/student/lab3/pioneer3dx/build/p3dx_description/CMakeFiles/roscpp_generate_messages_cpp.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : p3dx_description/CMakeFiles/roscpp_generate_messages_cpp.dir/depend
 

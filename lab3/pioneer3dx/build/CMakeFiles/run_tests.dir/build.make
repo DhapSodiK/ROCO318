@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/student/pioneer3dx/src
+CMAKE_SOURCE_DIR = /home/student/lab3/pioneer3dx/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/student/pioneer3dx/build
+CMAKE_BINARY_DIR = /home/student/lab3/pioneer3dx/build
 
 # Utility rule file for run_tests.
 
@@ -67,6 +67,6 @@ CMakeFiles/run_tests.dir/clean:
 .PHONY : CMakeFiles/run_tests.dir/clean
 
 CMakeFiles/run_tests.dir/depend:
-	cd /home/student/pioneer3dx/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/pioneer3dx/src /home/student/pioneer3dx/src /home/student/pioneer3dx/build /home/student/pioneer3dx/build /home/student/pioneer3dx/build/CMakeFiles/run_tests.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/student/lab3/pioneer3dx/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/lab3/pioneer3dx/src /home/student/lab3/pioneer3dx/src /home/student/lab3/pioneer3dx/build /home/student/lab3/pioneer3dx/build /home/student/lab3/pioneer3dx/build/CMakeFiles/run_tests.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/run_tests.dir/depend
 

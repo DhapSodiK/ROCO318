@@ -1,4 +1,4 @@
-prefix=/home/student/pioneer3dx/devel
+prefix=/home/student/lab3/pioneer3dx/devel
 
 Name: p3dx_description
 Description: Description of p3dx_description

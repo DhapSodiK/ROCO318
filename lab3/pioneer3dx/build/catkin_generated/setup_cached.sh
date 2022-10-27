@@ -7,8 +7,7 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/student/pioneer3dx/devel:$CMAKE_PREFIX_PATH"
-export LD_LIBRARY_PATH="/home/student/pioneer3dx/devel/lib:$LD_LIBRARY_PATH"
-export PWD='/home/student/pioneer3dx/build'
-export ROSLISP_PACKAGE_DIRECTORIES='/home/student/pioneer3dx/devel/share/common-lisp'
-export ROS_PACKAGE_PATH="/home/student/pioneer3dx/src:$ROS_PACKAGE_PATH"
+export CMAKE_PREFIX_PATH="/home/student/lab3/pioneer3dx/devel:$CMAKE_PREFIX_PATH"
+export PWD='/home/student/lab3/pioneer3dx/build'
+export ROSLISP_PACKAGE_DIRECTORIES='/home/student/lab3/pioneer3dx/devel/share/common-lisp'
+export ROS_PACKAGE_PATH="/home/student/lab3/pioneer3dx/src:$ROS_PACKAGE_PATH"

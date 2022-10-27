@@ -8,7 +8,6 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/student/lab3/pioneer3dx_simulation/devel:$CMAKE_PREFIX_PATH"
-export LD_LIBRARY_PATH="/home/student/lab3/pioneer3dx_simulation/devel/lib:$LD_LIBRARY_PATH"
 export PWD='/home/student/lab3/pioneer3dx_simulation/build'
 export ROSLISP_PACKAGE_DIRECTORIES='/home/student/lab3/pioneer3dx_simulation/devel/share/common-lisp'
 export ROS_PACKAGE_PATH="/home/student/lab3/pioneer3dx_simulation/src:$ROS_PACKAGE_PATH"

@@ -1,2 +1,2 @@
 p3dx_description
--DCATKIN_DEVEL_PREFIX=/home/student/pioneer3dx/devel -DCMAKE_INSTALL_PREFIX=/home/student/pioneer3dx/install -G Unix Makefiles
+-DCATKIN_DEVEL_PREFIX=/home/student/lab3/pioneer3dx/devel -DCMAKE_INSTALL_PREFIX=/home/student/lab3/pioneer3dx/install -G Unix Makefiles
