@@ -1,8 +1,0 @@
-prefix=/home/student/lab3/pioneer3dx_simulation/install
-
-Name: coppeliasim_p3dx_sim
-Description: Description of coppeliasim_p3dx_sim
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

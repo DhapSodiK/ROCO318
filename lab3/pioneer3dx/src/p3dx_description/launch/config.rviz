@@ -8,6 +8,10 @@ Panels:
         - /Status1
         - /TF1
         - /TF1/Frames1
+        - /TF1/Tree1/base_link1
+        - /TF1/Tree1/base_link1/swivel1
+        - /TF1/Tree1/base_link1/swivel1/center_wheel1
+        - /RobotModel1
       Splitter Ratio: 0.5
     Tree Height: 763
   - Class: rviz/Selection
@@ -57,27 +61,27 @@ Visualization Manager:
       Enabled: true
       Frame Timeout: 15
       Frames:
-        All Enabled: false
+        All Enabled: true
         base_link:
-          Value: false
+          Value: true
         center_hubcap:
-          Value: false
+          Value: true
         center_wheel:
-          Value: false
+          Value: true
         front_sonar:
-          Value: false
+          Value: true
         lms100:
-          Value: false
+          Value: true
         p3dx_left_hubcap:
-          Value: false
+          Value: true
         p3dx_left_wheel:
-          Value: false
+          Value: true
         p3dx_right_hubcap:
-          Value: false
+          Value: true
         p3dx_right_wheel:
-          Value: false
+          Value: true
         swivel:
-          Value: false
+          Value: true
         top_plate:
           Value: true
       Marker Alpha: 1
@@ -205,7 +209,7 @@ Visualization Manager:
   Views:
     Current:
       Class: rviz/XYOrbit
-      Distance: 1.9464401006698608
+      Distance: 8.493277549743652
       Enable Stereo Rendering:
         Stereo Eye Separation: 0.05999999865889549
         Stereo Focal Distance: 1
@@ -221,9 +225,9 @@ Visualization Manager:
       Invert Z Axis: false
       Name: Current View
       Near Clip Distance: 0.009999999776482582
-      Pitch: 0.5127288699150085
+      Pitch: -0.0822710394859314
       Target Frame: <Fixed Frame>
-      Yaw: 5.244391918182373
+      Yaw: 4.999389171600342
     Saved: ~
 Window Geometry:
   Displays:
