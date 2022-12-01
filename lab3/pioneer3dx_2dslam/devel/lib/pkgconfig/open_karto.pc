@@ -1,0 +1,8 @@
+prefix=/home/student/lab3/pioneer3dx_2dslam/devel
+
+Name: open_karto
+Description: Description of open_karto
+Version: 1.2.0
+Cflags: -I/home/student/lab3/pioneer3dx_2dslam/src/open_karto/include -I/usr/include
+Libs: -L${prefix}/lib -lkarto /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
+Requires: 

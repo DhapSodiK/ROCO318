@@ -131,6 +131,8 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/student/lab3/pioneer3dx_2dslam/build/gtest/cmake_install.cmake")
+  include("/home/student/lab3/pioneer3dx_2dslam/build/open_karto/cmake_install.cmake")
+  include("/home/student/lab3/pioneer3dx_2dslam/build/pioneer3dx_gmapping/cmake_install.cmake")
 
 endif()
 

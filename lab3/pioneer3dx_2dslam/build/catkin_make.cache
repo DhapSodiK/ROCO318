@@ -1,2 +1,2 @@
-
+open_karto:pioneer3dx_gmapping
 -DCATKIN_DEVEL_PREFIX=/home/student/lab3/pioneer3dx_2dslam/devel -DCMAKE_INSTALL_PREFIX=/home/student/lab3/pioneer3dx_2dslam/install -G Unix Makefiles

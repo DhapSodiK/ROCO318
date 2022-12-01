@@ -1,0 +1,8 @@
+prefix=/home/student/lab3/pioneer3dx_2dslam/devel
+
+Name: pioneer3dx_gmapping
+Description: Description of pioneer3dx_gmapping
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
