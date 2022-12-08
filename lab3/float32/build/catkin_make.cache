@@ -1,0 +1,2 @@
+float32multiarray_to_pointcloud2
+-DCATKIN_DEVEL_PREFIX=/home/student/lab3/float32/devel -DCMAKE_INSTALL_PREFIX=/home/student/lab3/float32/install -G Unix Makefiles
