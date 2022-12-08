@@ -1,0 +1,8 @@
+prefix=/home/student/lab3/float32/devel
+
+Name: float32multiarray_to_pointcloud2
+Description: Description of float32multiarray_to_pointcloud2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
