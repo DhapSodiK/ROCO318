@@ -6,7 +6,7 @@
   <param name="robot_description" textfile="$(arg model)" />
   
   <arg name="input_topic" default="/Float32MultiArray_in" />
-        <arg name="output_topic" default="/cloud_out" />
+        <arg name="output_topic" default="/PointCloud2" />
         <arg name="frame_id" default="/camera_depth_frame" />
         
         <arg name="near_clip" default= "0.01" />

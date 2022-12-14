@@ -1,0 +1,54 @@
+
+1. (catkin_make)
+
+Navigate to the pioneer3dx_wss file and catkin_make pioneer3dx, pioneer3dx_simulation, pioneer3dx_2dslam and pioneer3dx_map_and_nav
+
+
+2.A. (CoppeliaSim)
+
+In a seperate terminal use the source command:
+
+source source_all.bash
+
+Next to open the CoppeliaSim of the robot use the command:
+
+roslaunch coppeliasim_p3dx_sim coppeliasim_p3dx_sim.launch
+
+
+2.B. (RViz)
+
+In a seperate terminal use the source command:
+
+source source_all.bash
+
+Next to open the RViz of the robot use the command:
+
+roslaunch coppeliasim_p3dx_sim coppeliasim_p3dx_launch.launch
+
+
+
+
+2.C. (SLAM)
+
+In a seperate terminal update to use gmapping:
+
+sudo apt-get update
+
+Install the gmapping softwear:
+
+sudo apt-get install ros-noetic-gmapping
+
+As before use the source command:
+
+source source_all.bash
+
+And to open the RViz of the robot use the command:
+
+roslaunch pioneer3dx_gmapping pioneer3dx_gmapping.launch
+
+
+2.D. 
+
+
+
+

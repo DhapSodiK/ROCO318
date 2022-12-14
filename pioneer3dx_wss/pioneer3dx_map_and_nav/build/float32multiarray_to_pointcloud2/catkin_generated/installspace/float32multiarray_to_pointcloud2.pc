@@ -1,0 +1,8 @@
+prefix=/home/student/pioneer3dx_wss/pioneer3dx_map_and_nav/install
+
+Name: float32multiarray_to_pointcloud2
+Description: Description of float32multiarray_to_pointcloud2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

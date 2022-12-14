@@ -1,0 +1,8 @@
+prefix=/home/student/pioneer3dx_wss/pioneer3dx_2dslam/install
+
+Name: pioneer3dx_slam_karto
+Description: Description of pioneer3dx_slam_karto
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
